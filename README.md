@@ -29,7 +29,7 @@ Parallax scrolling and hover effects
 
 Clone the repository:
 
-git clone https://github.com/your-username/d2k-bikers-collection.git
+git clone https://github.com/VISHVAPRASATHVS/WEB-APPLICATION--D2K-s-BIKE-COLLECTIONS.git
 
 
 Open the project folder
